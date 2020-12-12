@@ -1,0 +1,9 @@
+Decoration ✔
+food
+photographer
+Staff Management
+Users ✔
+Orders
+Payments
+Contact✔
+Occasions✔

@@ -1,0 +1,8 @@
+✔Occasions
+- Id -> INT()
+- Name -> VARCHAR(200)
+- Date -> TimeStamp()
+- Type -> VARCHAR(30)
+- Budget -> INT()
+- User ID -> INT()
+

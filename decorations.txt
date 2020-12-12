@@ -1,0 +1,8 @@
+✔ Decoration ✔
+- id
+- name
+- number of staff
+- description
+- Budget
+- Customer name / Occasion name
+- Instruments
